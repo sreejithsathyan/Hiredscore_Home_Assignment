@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Clark L Kent",
+        "experiences": [
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/1976",
+                "end_date": "Dec/31/1998",
+                "location": "New York, NY, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/1999",
+                "end_date": "Jan/01/2002",
+                "location": "Pasadena, AA, US",
+                "description": ""
+            },
+            {
+                "role": "Jigglypuff & Company, C.P.A",
+                "start_date": "Jan/01/2002",
+                "end_date": "Dec/31/2002",
+                "location": "Pasadena, AA, US",
+                "description": ""
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Jan/01/2003",
+                "end_date": "Dec/31/2003",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/2004",
+                "end_date": "Dec/31/2004",
+                "location": "New York, NY, US",
+                "description": ""
+            },
+            {
+                "role": "Wax Preparer",
+                "start_date": "Jan/01/2006",
+                "end_date": "Dec/31/2006",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Gap_in_CV",
+                "start_date": "Dec/31/2004",
+                "end_date": "Jan/01/2006",
+                "location": "",
+                "description": "Gap in CV for 365 days"
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Jan/01/2007",
+                "end_date": "Dec/31/2007",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/2008",
+                "end_date": "Dec/31/2008",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Bruce Wayne",
+        "experiences": [
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/1976",
+                "end_date": "Dec/31/1998",
+                "location": "New York, NY, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/1999",
+                "end_date": "Jan/01/2002",
+                "location": "Pasadena, AA, US",
+                "description": ""
+            },
+            {
+                "role": "Jigglypuff & Company, C.P.A",
+                "start_date": "Jan/01/2002",
+                "end_date": "Dec/31/2002",
+                "location": "Pasadena, AA, US",
+                "description": ""
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Jan/01/2003",
+                "end_date": "Dec/31/2003",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/2004",
+                "end_date": "Dec/31/2004",
+                "location": "New York, NY, US",
+                "description": ""
+            },
+            {
+                "role": "Wax Preparer",
+                "start_date": "Jan/01/2006",
+                "end_date": "Dec/31/2006",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Gap_in_CV",
+                "start_date": "Dec/31/2004",
+                "end_date": "Jan/01/2006",
+                "location": "",
+                "description": "Gap in CV for 365 days"
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Jan/01/2007",
+                "end_date": "Dec/31/2007",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/2008",
+                "end_date": "Dec/31/2008",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Sales/Membership Representative",
+                "start_date": "Jan/01/2010",
+                "end_date": "Jan/01/2011",
+                "location": "Atnalta, GA, US",
+                "description": ""
+            },
+            {
+                "role": "Gap_in_CV",
+                "start_date": "Dec/31/2008",
+                "end_date": "Jan/01/2010",
+                "location": "",
+                "description": "Gap in CV for 365 days"
+            },
+            {
+                "role": "Accounts Payable Accountant",
+                "start_date": "Mar/11/2011",
+                "end_date": "Jan/01/2012",
+                "location": "Atnalta, GA, US",
+                "description": ""
+            },
+            {
+                "role": "Gap_in_CV",
+                "start_date": "Jan/01/2011",
+                "end_date": "Mar/11/2011",
+                "location": "",
+                "description": "Gap in CV for 68 days"
+            },
+            {
+                "role": "Cash Receipts Accountant",
+                "start_date": "Jan/01/2012",
+                "end_date": "Jan/01/2013",
+                "location": "Zodiac, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Assistant Controller/Staff Accountant",
+                "start_date": "May/06/2013",
+                "end_date": "Jan/01/2014",
+                "location": "Gotham City, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Gap_in_CV",
+                "start_date": "Jan/01/2013",
+                "end_date": "May/06/2013",
+                "location": "",
+                "description": "Gap in CV for 124 days"
+            },
+            {
+                "role": "Staff Accountant, HHH Coordinator",
+                "start_date": "Jan/01/2014",
+                "end_date": "Jul/12/2016",
+                "location": "Batmandria, VA, US",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Peter Parker",
+        "experiences": [
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/1976",
+                "end_date": "Dec/31/1998",
+                "location": "New York, NY, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/1999",
+                "end_date": "Jan/01/2002",
+                "location": "Pasadena, AA, US",
+                "description": ""
+            },
+            {
+                "role": "Jigglypuff & Company, C.P.A",
+                "start_date": "Jan/01/2002",
+                "end_date": "Dec/31/2002",
+                "location": "Pasadena, AA, US",
+                "description": ""
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Jan/01/2003",
+                "end_date": "Dec/31/2003",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/2004",
+                "end_date": "Dec/31/2004",
+                "location": "New York, NY, US",
+                "description": ""
+            },
+            {
+                "role": "Wax Preparer",
+                "start_date": "Jan/01/2006",
+                "end_date": "Dec/31/2006",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Gap_in_CV",
+                "start_date": "Dec/31/2004",
+                "end_date": "Jan/01/2006",
+                "location": "",
+                "description": "Gap in CV for 365 days"
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Jan/01/2007",
+                "end_date": "Dec/31/2007",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/2008",
+                "end_date": "Dec/31/2008",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Mar/13/2008",
+                "end_date": "Jan/31/2010",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Sales/Membership Representative",
+                "start_date": "Jan/01/2010",
+                "end_date": "Jan/01/2011",
+                "location": "Atnalta, GA, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Feb/01/2010",
+                "end_date": "Sep/5/2016",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Accounts Payable Accountant",
+                "start_date": "Mar/11/2011",
+                "end_date": "Jan/01/2012",
+                "location": "Atnalta, GA, US",
+                "description": ""
+            },
+            {
+                "role": "Cash Receipts Accountant",
+                "start_date": "Jan/01/2012",
+                "end_date": "Jan/01/2013",
+                "location": "Zodiac, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Assistant Controller/Staff Accountant",
+                "start_date": "May/06/2013",
+                "end_date": "Jan/01/2014",
+                "location": "Gotham City, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Gap_in_CV",
+                "start_date": "Jan/01/2013",
+                "end_date": "May/06/2013",
+                "location": "",
+                "description": "Gap in CV for 124 days"
+            },
+            {
+                "role": "Staff Accountant, HHH Coordinator",
+                "start_date": "Jan/01/2014",
+                "end_date": "Jul/12/2016",
+                "location": "Batmandria, VA, US",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Walter White",
+        "experiences": [
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/1976",
+                "end_date": "Dec/31/1998",
+                "location": "New York, NY, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/1999",
+                "end_date": "Jan/01/2002",
+                "location": "Pasadena, AA, US",
+                "description": ""
+            },
+            {
+                "role": "Jigglypuff & Company, C.P.A",
+                "start_date": "Jan/01/2002",
+                "end_date": "Dec/31/2002",
+                "location": "Pasadena, AA, US",
+                "description": ""
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Jan/01/2003",
+                "end_date": "Dec/31/2003",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/2004",
+                "end_date": "Dec/31/2004",
+                "location": "New York, NY, US",
+                "description": ""
+            },
+            {
+                "role": "Wax Preparer",
+                "start_date": "Jan/01/2006",
+                "end_date": "Dec/31/2006",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Gap_in_CV",
+                "start_date": "Dec/31/2004",
+                "end_date": "Jan/01/2006",
+                "location": "",
+                "description": "Gap in CV for 365 days"
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Jan/01/2007",
+                "end_date": "Dec/31/2007",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Jan/01/2008",
+                "end_date": "Dec/31/2008",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "C.O.A.'s",
+                "start_date": "Mar/13/2008",
+                "end_date": "Jan/31/2010",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Sales/Membership Representative",
+                "start_date": "Jan/01/2010",
+                "end_date": "Jan/01/2011",
+                "location": "Atnalta, GA, US",
+                "description": ""
+            },
+            {
+                "role": "Staff Accountant",
+                "start_date": "Feb/01/2010",
+                "end_date": "Sep/5/2016",
+                "location": "Agrabah, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Accounts Payable Accountant",
+                "start_date": "Mar/11/2011",
+                "end_date": "Jan/01/2012",
+                "location": "Atnalta, GA, US",
+                "description": ""
+            },
+            {
+                "role": "Cash Receipts Accountant",
+                "start_date": "Jan/01/2012",
+                "end_date": "Jan/01/2013",
+                "location": "Zodiac, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Assistant Controller/Staff Accountant",
+                "start_date": "May/06/2013",
+                "end_date": "Jan/01/2014",
+                "location": "Gotham City, GM, US",
+                "description": ""
+            },
+            {
+                "role": "Gap_in_CV",
+                "start_date": "Jan/01/2013",
+                "end_date": "May/06/2013",
+                "location": "",
+                "description": "Gap in CV for 124 days"
+            },
+            {
+                "role": "Staff Accountant, HHH Coordinator",
+                "start_date": "Jan/01/2014",
+                "end_date": "Jul/12/2016",
+                "location": "Batmandria, VA, US",
+                "description": ""
+            }
+        ]
+    }
+]
